@@ -1,0 +1,5 @@
+libfreetype6-dev
+libpng-dev
+zlib1g-dev
+libjpeg-dev
+liblcms2-dev
